@@ -4,11 +4,10 @@
 
 ### 🧠 Habilidades:
 * Possuo inglês intemediário de acordo com o teste da cambridge press;
-* Básico de html ;
+* Básico de html e css;
 * Curso tecnico em TI( em desenvolvimento) .
 * 
 ### 📗 Recentemente estou aprendendo : 
-* css;
 * Excel;
 * Git bash;
 * Fundamentos de Design.
