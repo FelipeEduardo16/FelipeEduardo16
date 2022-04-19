@@ -1,7 +1,7 @@
 ### 👋 Prazer :) , Bão?,  Meu nome é Felipe Eduardo.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_eduardo_01/)
-[![Instagram](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/felipe_eduardo_01/)
+[![Instagram](https://img.shields.io/badge/Gmail-00a2fc?style=for-the-badge&logo=gmail&logoColor=D14836"/)
 
 ### 🧠 Habilidades:
 * Possuo inglês intemediário de acordo com o teste da cambridge press;
