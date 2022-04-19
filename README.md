@@ -11,6 +11,7 @@
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-00456A?style=for-the-badge&logo=java&logoColor=ED8B00"/>
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-00456A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 * Excel;
+* 
 * Git bash;
 * Fundamentos de Design.
 
