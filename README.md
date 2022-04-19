@@ -4,7 +4,7 @@
 
 ### 🧠 Habilidades:
 * Possuo inglês intemediário de acordo com o teste da cambridge press;
-* Básico de html e css;
+* Básico de <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-00456A?style=for-the-badge&logo=html5&logoColor=E34F26"/> e <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-00456A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 * Curso tecnico em TI( em desenvolvimento) .
 * 
 ### 📗 Recentemente estou aprendendo : 
