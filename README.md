@@ -1,7 +1,5 @@
 ### 👋 Prazer :) , Meu nome é Felipe Eduardo.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_eduardo_01/)
-
 
 
 ### 🧠 Habilidades:
@@ -23,3 +21,6 @@
 ### gostos 🎸🎸
 * sou bem eclético mas meu gosto musical favorito é rock/metal 
 * gosto de ping pong :P 🏓🏓
+
+### contatos
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_eduardo_01/)
